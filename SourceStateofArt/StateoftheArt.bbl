@@ -1,0 +1,181 @@
+\begin{thebibliography}{10}
+
+\bibitem{Koerich2003}
+A.~Koerich, R.~Sabourin, and C.~Y. Suen,
+\newblock ``Large vocabulary off-line handwriting recognition: A survey,''
+\newblock {\em Pattern Analysis and Applications}, vol. 6, no. 2, pp. 97--127,
+  2003.
+
+\bibitem{Kimura93}
+F.~Kimura, M~Shridhar, and Z.~Chen,
+\newblock ``Improvements of a lexicon directed algorithm for recognition of
+  unconstrained handwritten words,''
+\newblock in {\em International Conference on Document Analysis and
+  Recognition}, 1993, pp. 18--22.
+
+\bibitem{Koerich2005}
+A.~Koerich, R.~Sabourin, and C.~Y. Suen,
+\newblock ``Recognition and verification of unconstrained handwritten words,''
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  vol. 27, no. 10, pp. 1509--1522, 2005.
+
+\bibitem{Arika2002}
+A.~Arika and F.~T. Vural,
+\newblock ``Optical character recognition for cursive handwriting,''
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  vol. 24, no. 6, pp. 801--813, 2002.
+
+\bibitem{Kundu2002}
+A.~Kundu, Y.~He, and M.~Chen,
+\newblock ``Alternatives to variable duration hmm in handwriting recognition,''
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  vol. 20, no. 11, pp. 1275--1280, 2002.
+
+\bibitem{ElYacoubi99}
+A.~El Yacoubi, M.~Gilloux, R.~Sabourin, and C.~Y. Suen,
+\newblock ``An hmm-based approach for off-line unconstrained handwritten word
+  modeling and recognition,''
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  vol. 21, no. 8, pp. 752--760, 1999.
+
+\bibitem{Grandidier01}
+F.~Grandidier, R.~Sabourin, M.~Gilloux, and C.~Y. Suen,
+\newblock ``An a priori indicator of the discrimination power of discrete
+  hidden markov models,''
+\newblock in {\em International Conference on Document Analysis and
+  Recognition}, 2001, pp. 350--354.
+
+\bibitem{Cho95}
+W.~Cho, S.~W. Lee, and J.~H. Kim,
+\newblock ``Modeling and recognition of cursive words with hidden markov
+  models,''
+\newblock {\em Pattern Recognition}, vol. 28, no. 12, pp. 1941--1953, 1995.
+
+\bibitem{Gillies92}
+A.~M. Gillies,
+\newblock ``Cursive word recognition using hidden markov models,''
+\newblock in {\em Proc. Fifth U.S. Postal Service Advanced Technology
+  Conference}, 1992, pp. 557--562.
+
+\bibitem{Mohamed96}
+M.~A. Mohamed and P.~Gader,
+\newblock ``Handwritten word recognition using segmentation-free hidden markov
+  modeling and segmentation-based dynamic programming techniques,''
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  vol. 18, no. 5, pp. 548--554, 1996.
+
+\bibitem{Han97}
+K.~Han and I.~K. Sethi,
+\newblock ``An off-line cursive handwritten word recognition system and its
+  application to legal amount interpretation,''
+\newblock in {\em International Journal of Pattern Recognition and Artificial
+  Intelligence}, S.Impedovo et~al, Ed., pp. 757--770. World Scientific, 1997.
+
+\bibitem{Dimauro97}
+G.~Dimauro, S.~Impedovo, G.~Pirlo, and A.~Salzo,
+\newblock ``Automatic bankcheck processing: A new engineered system,''
+\newblock in {\em International Journal of Pattern Recognition and Artificial
+  Intelligence}, S.Impedovo et~al, Ed., pp. 467--503. World Scientific, 1997.
+
+\bibitem{Rabiner89}
+L.~R. Rabiner,
+\newblock ``A tutorial on hidden markov models and selected applications in
+  speech recognition,''
+\newblock {\em Proc. of IEEE}, vol. 77, no. 2, pp. 257--286, 1989.
+
+\bibitem{Jelinek97}
+F.~Jelinek,
+\newblock {\em Statistical Methods for Speech Recognition},
+\newblock MIT Press, 1997.
+
+\bibitem{Freitas01}
+C.~Freitas, F.~Bortolozzi, and R.~Sabourin,
+\newblock ``Handwritten isolated word recognition: An approach based on mutual
+  information for feature set validation,''
+\newblock in {\em International Conference on Document Analysis and
+  Recognition}, 2001, pp. 665--669.
+
+\bibitem{Bunke95}
+H.~Bunke, M.~Roth, and E.~G. Schukat-Talamazzini,
+\newblock ``Off-line cursive handwriting recognition using hidden markov
+  models,''
+\newblock {\em Pattern Recognition}, vol. 28, no. 9, pp. 1399--1413, 1995.
+
+\bibitem{Gimenez2009}
+A.~Gimenez and A.~Juan,
+\newblock ``Embedded bernoulli mixture hmms for handwritten word recognition,''
+\newblock in {\em International Conference on Document Analysis and
+  Recognition}, 2009, pp. 896--900.
+
+\bibitem{Ahmad2009}
+A.~R. Ahmad, C.~Viard-Gaudin, and M.~Khalid,
+\newblock ``Lexicon-based word recognition using support vector machine and
+  hidden markov model,''
+\newblock in {\em International Conference on Document Analysis and
+  Recognition}, 2009, pp. 161--165.
+
+\bibitem{Marti01}
+U.~Marti and H.~Bunke,
+\newblock ``Using a statistical language model to improve the performance of an
+  hmm-based cursive handwriting recognition system,''
+\newblock {\em International Journal of Pattern Recognition and Artifical
+  Intelligence}, vol. 15, no. 1, pp. 65--90, 2001.
+
+\bibitem{Jayadevan2012}
+R.~Jayadevan, S.~R. Kolhe, P.~M. Patil, and U.~Pal,
+\newblock ``Automatic processing of handwritten bank cheque images: a survey,''
+\newblock {\em International Journal on Document Analysis and Recognition},
+  vol. 15, pp. 267--296, 2012.
+
+\bibitem{Houle1996}
+G.~F. Houle, D.~B. Aragon, R.~W. Smith, M.~Shridhar, and F.~Kimura,
+\newblock ``A multi-layered corroboration-based check reader,''
+\newblock in {\em Workshop on Document Analysis Systems}, 1996, pp. 495--546.
+
+\bibitem{Fan96}
+R.~Fan, L.~Lam, and C.~Y. Suen,
+\newblock ``Processing of date information on cheques,''
+\newblock in {\em Proc. 5$^{th}$ International Workshop on Frontiers of
+  Handwriting Recognition (IWFHR)}, Colchester-U.K, September 1996, pp.
+  207--212.
+
+\bibitem{Xu2002}
+Q.~Xu, J.~H. Kim, L.~Lam, and C.~Y. Suen,
+\newblock ``Recognition of handwritten month words on bank cheques,''
+\newblock in {\em Proc. 8$^{th}$ International Workshop on Frontiers of
+  Handwriting Recognition (IWFHR)}, Niagara on the Lake-CA, August 2002, pp.
+  111--116.
+
+\bibitem{Xu2003}
+Q.~Xu, J.~H. Kim, L.~Lam, and C.~Y. Suen,
+\newblock ``Automatic segmentation and recognition system for handwritten dates
+  on canadian bank cheques,''
+\newblock in {\em International Conference on Document Analysis and
+  Recognition}, August 2003.
+
+\bibitem{Morita2000}
+M.~Morita, E.~Lethelier, A.~El Yacoubi, F.~Bortolozzi, and R.~Sabourin,
+\newblock ``An hmm-based approach for date recognition,''
+\newblock in {\em Proc. Fourth IAPR International Workshop on Document Analysis
+  Systems (DAS)}, Rio de Janeiro-Brazil, December 2000, pp. 233--244.
+
+\bibitem{Morita2001}
+M.~Morita, A.~El Yacoubi, R.~Sabourin, F.~Bortolozzi, and C.~Y. Suen,
+\newblock ``Handwritten month word recognition on {B}razilian bank cheques,''
+\newblock in {\em Proc. 6$^{th}$ International Conference on Document Analysis
+  and Recognition (ICDAR)}, Seattle-USA, September 2001, pp. 972--976.
+
+\bibitem{Morita2004}
+M.~Morita, R.~Sabourin, F.~Bortolozzi, and C.~Y. Suen,
+\newblock ``Segmentation and recognition of handwritten dates: an hmm-mlp
+  hybrid approach,''
+\newblock {\em International Journal on Document Analysis and Recognition},
+  vol. 6, no. 4, pp. 248--262, 2004.
+
+\bibitem{Kapp2007}
+M.~Kapp, C.~Freitas, and R.~Sabourin,
+\newblock ``Methodology for the design of nn-based month-word recognizers
+  written on brazilian bank checks,''
+\newblock {\em Image and Vision Computing}, vol. 25, pp. 40--49, 2007.
+
+\end{thebibliography}

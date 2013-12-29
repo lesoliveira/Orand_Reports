@@ -1,0 +1,40 @@
+\begin{thebibliography}{1}
+
+\bibitem{Ranawana06}
+R.~Ranawana,
+\newblock ``Multi-classifier system – review and a roadmap for developers,''
+\newblock {\em International Journal of Hybrid Intelligent Systems}, vol. 3,
+  no. 2, pp. 35--61, 2006.
+
+\bibitem{Brown05}
+G.~Brown, J.~Wyatt, R.~Harris, and X.~Yao,
+\newblock ``Diversity creation methods: a survey and categorization,''
+\newblock {\em International Journal of Information Fusion}, vol. 51, no. 2,
+  pp. 5--20, 2005.
+
+\bibitem{Kuncheva03}
+L.~I. Kuncheva and C.~J. Whitaker,
+\newblock ``Measures of diversity in classifier ensembles and their
+  relationship with the ensemble accuracy,''
+\newblock {\em Machine Learning}, vol. 51, no. 2, pp. 181--207, 2003.
+
+\bibitem{Kittler98}
+J.~Kittler, M.~Hatef, R.~P.~W. Duin, and J.~Matas,
+\newblock ``On combining classifiers,''
+\newblock {\em IEEE Trans. on Pattern Analysis and Machine Intelligence}, vol.
+  20, no. 3, pp. 226--239, 1998.
+
+\bibitem{Liu03}
+R.~Jayadevan, S.~R. Kolhe, P.~M. Patil, and U.~Pal,
+\newblock ``Handwritten digit recognition: benchmarking of state-of-the-art
+  techniques,''
+\newblock {\em Pattern Recognition}, vol. 36, pp. 2271--2285, 2003.
+
+\bibitem{Morita2004}
+M.~Morita, R.~Sabourin, F.~Bortolozzi, and C.~Y. Suen,
+\newblock ``Segmentation and recognition of handwritten dates: an hmm-mlp
+  hybrid approach,''
+\newblock {\em International Journal on Document Analysis and Recognition},
+  vol. 6, no. 4, pp. 248--262, 2004.
+
+\end{thebibliography}

@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+
+\bibitem{Rabiner89}
+L.~R. Rabiner,
+\newblock ``A tutorial on hidden markov models and selected applications in
+  speech recognition,''
+\newblock {\em Proc. of IEEE}, vol. 77, no. 2, pp. 257--286, 1989.
+
+\bibitem{Huang90}
+X.~D. Huang, Y.~Ariki, and M.~A. Jack,
+\newblock {\em Hidden Markov Models for Speech Recognition},
+\newblock Edinburgh Univ. Press, 1990.
+
+\bibitem{ElYacoubi99-1}
+A.~El Yacoubi, R.~Sabourin, M.~Gilloux, and C.~Y. Suen,
+\newblock ``Off-line handwritten word recognition using hidden markov models,''
+\newblock in {\em Knowledge Techniques in Character Recognition}, L.C. Jain and
+  B.~Lazzerini, Eds. CRC Press LLC, April 1999.
+
+\bibitem{Jelinek97}
+F.~Jelinek,
+\newblock {\em Statistical Methods for Speech Recognition},
+\newblock MIT Press, 1997.
+
+\bibitem{Moom96}
+T.~K. Moom,
+\newblock ``The expectation-maximization algorithm,''
+\newblock {\em IEEE Signal Processing Magazine}, pp. 42--52, 1996.
+
+\bibitem{El99}
+A.~El Yacoubi, M.~Gilloux, R.~Sabourin, and C.~Y. Suen,
+\newblock ``An {HMM}-based approach for off-line unconstrained handwritten word
+  modeling and recognition,''
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  vol. 21, no. 8, pp. 752--760, 1999.
+
+\end{thebibliography}

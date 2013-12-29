@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{Morita2004}
+M.~Morita, R.~Sabourin, F.~Bortolozzi, and C.~Y. Suen,
+\newblock ``Segmentation and recognition of handwritten dates: an hmm-mlp
+  hybrid approach,''
+\newblock {\em International Journal on Document Analysis and Recognition},
+  vol. 6, no. 4, pp. 248--262, 2004.
+
+\bibitem{Strathy93}
+N.~W. Strathy,
+\newblock ``A method for segmentation of touching handwritten numerals,''
+\newblock M.S. thesis, Concordia University, Montreal-Canada, September 1993.
+
+\bibitem{Marisa03}
+Marisa Morita,
+\newblock {\em Automatic Recognition of Handwritten Dates on Brazilian Bank
+  Cheques},
+\newblock Ph.D. thesis, Ecole de Technologie Superieure, Universite du Quebec,
+  2003.
+
+\end{thebibliography}
